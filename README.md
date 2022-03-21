@@ -1,2 +1,3 @@
-# DayZ
-Docker container designed to run Bohemia Interactive's DayZ dedicated server.
+# dayz-ubuntu-docker
+
+A DayZ ubuntu Docker image ready to be used with Pterodactyl Egg.
